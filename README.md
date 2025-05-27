@@ -2,7 +2,7 @@
 
 This repository demonstrates a memory crash issue with react-native-video.
 
-![React Native Video Crash Demo](react-native-video-crash.mp4)
+https://github.com/user-attachments/assets/57cce899-b84c-4197-9ff9-f5c927179959
 
 run
 
