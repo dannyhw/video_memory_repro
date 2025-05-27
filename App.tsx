@@ -20,7 +20,6 @@ const data = [
   'https://www.w3schools.com/html/mov_bbb.mp4',
   'https://github.com/chthomos/video-media-samples/raw/refs/heads/master/big-buck-bunny-1080p-60fps-30sec.mp4',
   'https://github.com/chthomos/video-media-samples/raw/refs/heads/master/big-buck-bunny-480p-30sec.mp4',
-  // 'https://www.elecard.com/storage/video/SFTI_1280x720.bin?_gl=1*1uaevrc*_gcl_au*NTAzODA1MDA1LjE3NDgzNzgxMzY.*_ga*MTA4NTUzMTA0MS4xNzQ4Mzc4MTM1*_ga_JVRSY3ELFD*czE3NDgzNzgxMzUkbzEkZzAkdDE3NDgzNzgxMzUkajAkbDAkaDA.',
 ];
 
 function App() {
